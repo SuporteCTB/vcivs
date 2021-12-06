@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>vcivs</id>
+    <version>1.0.2-b</version>
+    <title>vcivs</title>
+    <authors>VALID CERTIFICADORA DIGITAL</authors>
+    <iconUrl></icourl>
+    <projectUrl>https://www.validcertificadora.com.br</projectUrl>
+    <tags>VALID</tags>
+    <summary>SYSTEM FINGER PRINT VALID</summary>
+    <description>Valid Certifier's exclusive software, for use of biometrics during the process of issuing digital certificates</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
